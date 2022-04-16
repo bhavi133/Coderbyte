@@ -18,4 +18,4 @@ def ExOh(strParam):
 
   return strParam
 
-print ExOh(raw_input())
+print(ExOh(input())
